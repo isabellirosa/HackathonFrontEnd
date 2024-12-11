@@ -13,7 +13,7 @@ Equipe composta por seis **membros**:
 6. **[Vinicius Gabryel Pereira](https://github.com/vinyzada)**
 
 ## Deploy do projeto 
-### `Vercel` [PROJETO **OORUN**](https://hackathon-front-end-vzce-git-dev-isabellirosas-projects.vercel.app?_vercel_share=OHBIczLitexMUfzNdPZzi2BebeC9pkgw)
+### `Vercel` [PROJETO **OORUN**](https://hackathon-front-end-git-dev-isabellirosas-projects.vercel.app?_vercel_share=VKDcodbAmMjTHBTRCL0hgfD3203h5KvM)
 
 
 
